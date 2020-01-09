@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Selenium</name>
+=======
+	<name>GitHub</name>
+>>>>>>> branch 'master' of https://github.com/roshaninkane/demo1.git
 	<comment></comment>
 	<projects>
 	</projects>
